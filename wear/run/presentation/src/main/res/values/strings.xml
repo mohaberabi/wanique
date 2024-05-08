@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heart_rate">Hear Rate</string>
+    <string name="distance">Distance</string>
+
+    <string name="error_ongoing_ex">There is already ongoing exercise wait until it is done and  try again </string>
+    <string name="error_own_exercise">You already have an ongoing exercise </string>
+    <string name="error_exercise_ended">This exercise is already ended  </string>
+    <string name="unknown_error">Unknown Error  </string>
+
+    <string name="unsupported">Usupported\n</string>
+    <string name="finish_run">Finish Run</string>
+    <string name="open_active_run_screen">Open Active Run Screen From Mobile App</string>
+    <string name="connect_your_phone">Connect Your Phone</string>
+    <string name="pause_run">Pause</string>
+    <string name="start_run">Start</string>
+</resources>

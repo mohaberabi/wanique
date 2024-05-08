@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="runique">Runique</string>
+    <string name="welcome_to_runique">Welcome to Runique</string>
+    <string name="intro_description">"Track your runs , achieve goals with our app "</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="already_have_an_account">"Already have an account "</string>
+    <string name="login">Login</string>
+    <string name="worng_email_paassword">email or password is wrong </string>
+
+    <string name="email_hint">mohab@yahoo.com</string>
+    <string name="email">Email</string>
+    <string name="must_be_a_valid_email">Must be a valid email</string>
+    <string name="password">Password</string>
+    <string name="at_least_d_characters">at least %d characters</string>
+    <string name="at_least_d_nos">at least %d Numbers</string>
+    <string name="at_least_d_upper">at least %d Upper Character</string>
+    <string name="at_least_d_lower">at least %d Lower Character</string>
+    <string name="register">Register</string>
+    <string name="user_already_exist">User Already Exist </string>
+    <string name="registration_done">"Registration Done "</string>
+
+
+</resources>

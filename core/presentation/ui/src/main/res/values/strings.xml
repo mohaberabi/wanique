@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disk_full">"Disk Full , Empty Some Space "</string>
+    <string name="no_netowrk">No Internet Connection</string>
+    <string name="conflict">"Conflict Data "</string>
+    <string name="serialize_error">Serialization Error\n</string>
+    <string name="unknown_error">"Something wnet Wrong "</string>
+    <string name="payload_too_large">Payload Too Large</string>
+    <string name="request_timeout">"Request Timeout "</string>
+    <string name="too_many_request">Too Many Request</string>
+    <string name="server_error">Server Error</string>
+    <string name="runqiue">Runique</string>
+    <string name="anayltics">Anaytlics</string>
+    <string name="log_out">Logout</string>
+
+    <string name="unAuthed">UnAthed</string>
+</resources>

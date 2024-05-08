@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_run">Active Run</string>
+    <string name="pause">pause</string>
+    <string name="start">start</string>
+    <string name="location_permission">In order to save runs and track your running data this apps needs your   location permission</string>
+    <string name="notification_permission">In order to save runs and track your running data this apps needs your notification permission</string>
+    <string name="noti_loc_permisison">In order to save runs and track your running data this apps needs your notifications and location permission</string>
+    <string name="okay">Okay</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="running_is_paused">"Running is paused "</string>
+    <string name="do_you_want_to_resume_or_finish">"Do you want to resume or finish "</string>
+    <string name="running_location_image">running location image</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="total_running_time">"Total Running Time "</string>
+    <string name="distance">Distance</string>
+    <string name="pace">Pace</string>
+    <string name="avg_speed">avg speed</string>
+    <string name="max_speed">max speed</string>
+    <string name="elevation">elevation</string>
+    <string name="avg_heart_rate">avg heart rate</string>
+    <string name="max_heart_rate">max heart rate</string>
+
+    <string name="delete">Delete</string>
+</resources>
